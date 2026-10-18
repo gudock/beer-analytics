@@ -19,3 +19,7 @@ venv/
 # Temporary files
 *.tmp
 *.log
+
+# Private business data
+data/processed/sales_data.csv
+data/raw/
